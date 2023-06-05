@@ -1,0 +1,2 @@
+# StocksApplication_CleanArchitecture
+Stock Application follows Clean Architecture
